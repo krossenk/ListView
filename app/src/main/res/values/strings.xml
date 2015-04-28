@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Genbrug</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="test">Test String</string>
+    <string name="title_activity_relative">RelativeActivity</string>
+    <string name="genbrug">Genbrug</string>
+    <string name="item_name">Item name</string>
+    <string name="description">Description</string>
+</resources>
